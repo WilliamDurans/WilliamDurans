@@ -1,4 +1,5 @@
 ### Prazer, William Matheus 👋
+- 19 anos, sempre ouvindo música e tentando aprender mais.
 
 <div>
   <a href = "email: wmdurans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
