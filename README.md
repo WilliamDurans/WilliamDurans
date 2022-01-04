@@ -1,6 +1,6 @@
 ### Prazer, William Matheus 😁
 - 19 anos.
-- Apredendo mais sobre HTML, CSS, JavaScript e PHP.
+- Estudando HTML, CSS, JavaScript e PHP.
 
 <div>
  <a href = "mailto:wmdurans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
