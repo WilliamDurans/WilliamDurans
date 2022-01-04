@@ -3,7 +3,7 @@
 - Estudando HTML, CSS, JavaScript e PHP.
 
 <div>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdurans&layout=compact&langs_count=7&theme=dark"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDurans&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div>
